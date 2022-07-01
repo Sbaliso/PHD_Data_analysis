@@ -1,8 +1,3 @@
-/*
- *simple HF muon Analysis task
- *
- */
- // last edit 2015-11-30
 #ifndef ANALYSISTASKMULTIPLICITY_H
 #define ANALYSISTASKMULTIPLICITY_H
 
